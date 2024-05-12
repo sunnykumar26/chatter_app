@@ -12,9 +12,8 @@ Chatter is built using the following technologies:
 ### Features
 
 - **Real-Time Communication**: Users can send and receive messages instantly, creating a smooth and responsive chatting experience.
-- **User Authentication**: Secure user authentication ensures that only authorized users can access the chat application.
 - **Chat Rooms**: Users can join different chat rooms based on their interests or preferences, enabling group conversations.
-- **Message History**: Chat history is stored in the database, allowing users to view previous messages even after logging out.
+
 
 ### Demo
 
