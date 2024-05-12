@@ -7,7 +7,7 @@ Chatter is a real-time chat application that allows users to communicate with ea
 Chatter is built using the following technologies:
 
 - **React.js**: Frontend library for building user interfaces
-- **MongoDB**: NoSQL database for storing user data and chat history
+- **Socket.io**: Socket.io is used for real time communication
 
 ### Features
 
